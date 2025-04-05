@@ -1,0 +1,21 @@
+<!--
+    Sources:
+    -https://developers.google.com/maps/documentation/embed/embedding-map
+-->
+<!DOCTYPE html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script> <!-- We should probably host jQuery at some point -->
+  <script src = "mapDemo.js"></script>
+</head>
+<body>
+  <form id="mapForm">
+    <label for="origin">My address (origin)</label>
+    <input type="text" id="origin" placeholder="origin">
+    <label for="dest">Job location (destination)</label>
+    <input type="text" id="dest" placeholder="destination">
+    <input type="button" id="mapSubmit" value="Submit"> 
+  </form>
+  <div id="map">
+
+  </div>
+</body>

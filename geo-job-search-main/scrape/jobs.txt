@@ -1,0 +1,2052 @@
+Title: PLC Programmer
+Company: TS Manufacturing15 reviewsLindsay, ON
+Location: Lindsay, ON
+Summary: PLC Programmer
+Job Description
+TS Manufacturing, a local family-owned manufacturer of Automated Machinery for the Sawmill & Material Handling sector, based in the scenic City of Kawartha Lakes. As an industry leading manufacturer, TS Manufacturing has continually improved its facilities and infrastructure leading to the completion of a multi-million dollar facility and equipment expansion culminating in the expansion of its 70,000 square foot manufacturing facility. With modern technology, and a strong global customer base we require people who are willing to take advantage of the opportunities to improve our processes and customer experiences throughout the organization including Electrical System Designer/PLC Programmer. In this role, you will get the opportunity to work with customers on almost every continent worldwide; as well as occasionally interfacing with engineering staff at one of our 3 other facilities worldwide – including New Zealand, and North Carolina. Currently Celebrating 50 years in business with an experienced multi-generational team; TS Manufacturing offers a rural based lifestyle, while working in a global reaching, pandemic essential business; offering competitive pay and benefits.
+The successful candidate will program and develop machine software for custom automated industrial equipment and production lines. We are looking for highly motived PLC Programmers who can program from scratch through to final commissioning, and remote service support. In addition, these professionals must have an excellent understanding of Electrical, Control, Mechanical, Pneumatic, and Hydraulic systems. They also will need to travel globally and at times with short notice. The candidate will be an integral part of controls teams in Canada, US and New Zealand. Office time will be spent at our design office in Lindsay, Ontario. The field of PLC Programmer includes a wide range of projects related to Bulk Material Handling Projects and/or Sawmill, Lumber Handling Machinery and R&D Projects.
+Key Duties Include*
+
+Read and understand electrical schematics using AutoCAD Electrical and printed field drawings.
+Collaborate with Mechanical, Fluid Power, Electrical and Controls teams from Kick-Off through to final commissioning of site(s).
+Programming of Allen Bradley (ControlLogix and CompactLogix) using RSLogix and Studio 5000 software suite.
+Design, Program and Implement operator interfaces and HMI’s using Allen Bradley’s Factory Talk software.
+Must have excellent understanding and practical knowledge of various motor control applications including Starter/Overload combinations, Soft Starters, Servo Drives, and VFD’s.
+
+· Setup and configuration of CIP Motion applications for stand-alone and coordinated systems
+
+Must have understanding and the ability to setup and configure industrial networks - Ethernet/IP.
+Automated Industrial Machinery PLC Logic Design and on-site commissioning.
+On-Site/remote support Troubleshooting and commissioning of Hardware including;
+
+
+Motor Control Panels, Consoles etc.
+PLC’s
+VFD’s
+Servos
+Digital/Analogue Field Devices and IO
+Specialty sensors and Scanners
+Actuators, Motors, Encoders etc.
+Machine Vision Systems
+
+
+Provide onsite project support when required which includes startup, debug and commissioning. Must be able to travel with short notice. (International travel) - (travel will be required on occasion).
+Participate in Remote Service Support of sites. This includes being scheduled for on call support of new and existing installations on a rotational basis with the controls group.
+*Depending on the candidates’ strengths – may vary slightly
+
+Desired Skills & Experience
+· College diploma as a minimum or equivalent industry experience.
+
+2 years minimum experience working with automated industrial equipment and production lines. Working Experience in automation or electrical design is required.
+Excellent comprehension of PLC's, programming and related hardware within the Rockwell Architecture (Allen Bradley Products preferred).
+Ability to work in a multi-disciplinary team (both internal and remote), including mechanical, electrical, control, fluid power, and CAD support.
+Solid knowledge of electrical field devices. – limit switches of various types, encoders, scanners, etc.
+Excellent understanding of motor control, servos and VFDs etc.
+Experience in Autodesk AutoCAD 2019 or later, and Microsoft Office is an asset.
+Excellent verbal and written communication skills. Must be able to communicate with Project Managers, Site/Office and Sales Teams on a regular basis.
+Ability to work extra hours to ensure a successful project when required.
+Self-motivated, driven individual with excellent problem-solving skills, responsible for the completion of task at hand and to be a positive ambassador to our client base.
+Working experience and understanding of automated industrial mechanical systems is a significant asset.
+Organized, self-regulated and excellent time management skills required.
+
+Job Types: Permanent, Full-time
+Benefits:
+
+Company pension
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+Lindsay, ON: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+PLC Programming: 5 years (preferred)
+
+Language:
+
+English (required)
+
+Work Location: In person
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0AKbAZgnjbl0datTGeu2eyTY8nRxmmETgyMXYi9pVIMD-No-x_quL54gzaKVfMwbtikyWJYLDQdL2RWIGUwEJYp1W5bfdZQ5lAu7pXHajPVFetScYeBgSf_6aan5kzd8E53FZhcz7CKmhlbysOlZDxtzcaa-mdgMAmUEYX4o90CdFomTGhovmjYC5JRkj_fzpQ098Pgrq-etuzr1c4guK2-b3tbgoxsfLmEvPdH3fZAlvEDFrjfFQOw_4ZQPydJoATT-8fZdgWGwb-hlB8tSH7aTpfr7MXMp-DMmXwOimNIvY4dWaXntZFJcfxO5-yOQFhZ6NGHkGe4Tc7A2CXmTmKJW9mo41oGbn9YbJRU6eazgiNnbECoo60lHviMPXf_3D6_d83tFm_X-6DPoF79H7K_2NOT9H11QsfvW8bVou2jEUuy6USYfhes9nuLKGsd755x1oRHfILruTvGvkoEHPJG6LDiC2mH2LVmg-FX3GvjpE3DX_-4p79NVgIQs2vMlfxiq8dxJIePNoesYxkfrLscOkNM7KkjgznGuL9fYJM4Vs4sQKjbcgH9byCC0jdpG-6IiAZyv30Anhi4-yVkESIhsFA2ik5lZ6CggO1-MVNU7XEGUquaDubb2B1a170mXkttJ94gS2yy-w==&xkcb=SoCU6_M3DEN4uCQiGZ0LbzkdCdPP&camk=f416UQcMBpAxS54-KPeKVQ==&p=0&fvj=1&vjs=3
+Salary: No Salary Found
+
+Title: Electrical / Computer Science Engineer, Embedded Software
+Company: Waterford Executive2 reviewsMississauga, ON
+Location: Mississauga, ON
+Summary: Senior Electrical Engineer (Software) Job Responsibilities
+Job Summary:Our client is seeking a Senior Electrical Engineer (Software) to join our R&D Team. You will assist us in designing our products for the future, and in the continuous improvement of our existing products. The Senior Electrical Engineer (Software) will play a pivotal role in establishing and managing our product research and development software activities in North America and coordinating and supporting software development team in China.
+Key Responsibilities:
+
+Research, analyze and develop software architecture needed for automotive mechatronic products (motors, actuators, sensors).Provide software design guidance that meets automotive ASPICE, functional safety, and cybersecurity requirements.
+
+Perform market intelligence studies and competitive benchmarking to stay abreast of industry trends.Establish cost-effective and efficient software design and development practice.
+
+Oversee and manage potential risks and issues within the product embedded software development, ensuring successful program launches. Review and manage software development from basic software layer to application layer.
+
+Provide engineering analysis and support for programing, coding, CAN/LIN communication, diagnostics, hardware software interfaces.Oversee software validation and support automated tests.
+
+Perform software design and simulations to drive mechatronics products. Establish basic software algorithms for brushless motor and actuator controls.
+
+Support brushless motors and brushed motors software test and diagnosis.Perform analysis and simulations based on model based design (MBD).
+
+Provide electrical engineering support for multiple products to achieve a mechatronic system design that is optimal for vehicle performance, piece cost, capital investment, quality, and manufacturability. Provide electrical engineering support at all levels with OEM Engineering.
+
+Manage product communications and interactions with customers and suppliers.Interpret customer’s specifications for assigned products related to the mechatronic system and associated components.
+
+Collaborate with hardware and other engineering teams to research and develop mechatronics products.
+Collaborate with our China engineering team to develop new and existing products.
+Perform other duties or assignments as required.
+
+Reporting Structure:
+
+Report to Director of Engineering
+
+KPIs: (Illustrative)
+
+Successfully oversee and manage product software development activities.
+Established systematic software architecture for automotive mechatronics products.
+Successful program launches.
+Demonstrated success in advanced motor control schemes, influencing the design of new products.
+Effectiveness of collaboration with internal teams and China engineering.
+
+Qualifications:
+
+Master or above degree in Computer Science, Electrical engineering, Mechatronics, or a related field.
+Prior experience in an electrical engineering software development role within the automotive industry.
+Strong research and development skills in designing and managing R&D activities.
+Proficient in C language or MBD development, with good programming ability.
+Capable of establishing software architecture, experience in AUTOSAR architecture development is preferred.
+Familiar with automotive software development processes and testing methods.
+Have solid experience in software coding and debugging, and the ability to independently analyze and solve problems.
+Familiar with MCU series such as Infineon and NXP, mainstream automotive microprocessors, and have relevant configuration, development, and debugging experience.
+Familiar with automotive CAN/LIN standards and have experience with hardware software interfaces.
+Capable of using CANoe, Vichile spy or other similar tools for communication development, testing and debugging.
+Be familiar with commonly used motor control techniques and be able to write motor control algorithms including DC, BLDC, PM, SRM motors etc.
+
+Beneficial Skills:
+
+Have experience in functional safety development, and be familiar with the requirements, methodology and techniques of functional safety software development.
+Experience in basic software development, familiar with SPI/I2C/SENT and other communication interface development.
+Experience developing for real-time operating systems or multi-threaded applications.
+Familiar with UDS, XCP, ODX and other diagnostic calibration protocols and have product development experience.
+Familiar with Flash Bootloader and have development experience.
+Demonstrated ability for continuous improvement, with a proactive approach to streamlining and enhancing engineering processes.
+Exceptional skills in navigating under ambiguity, with a forward-thinking approach to problem-solving that starts with identifying the objective and then working backwards, while engaging stakeholders along the way.
+Ability to thrive in a cross-functional environment with minimal supervision.
+Excellent communication skills both written and verbal.
+
+Job Types: Full-time, Permanent
+Salary: $110,000.00-$120,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Dental care
+Disability insurance
+Employee assistance program
+Extended health care
+Life insurance
+On-site parking
+Paid time off
+RRSP match
+Tuition reimbursement
+Vision care
+Wellness program
+
+Flexible Language Requirement:
+
+French not required
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus pay
+
+Work Location: In person
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0B15qG2qg3MFwGy2cKZs7i9Y6NyhLz6Cx7A4RvnZ7DrF7OjXXzkYFZfhxo3xfCKbyKmm8m58tOL4u7JZmzWy94MDP_NbzIElll0450v5sVssWAYthW-fX38_2GI5foTpwcnCOmC_Lr6t0E31gT-djX_4igRzJpQ1sE9cICIZl4KFekWWRjvQRBcDPkKnPN_aK3iybNF2P7ShIrDEiko1A2Ex_jhVjCMdhIpiwyL5LamkA008jACscuTJIOv_LlIBbqYnp36605wXYz3DwJ7BXlYc6ZDGGI_ShFD3Ath8rWod7wsDnt9BiBkKnBeweCXGdBI-6CAD5CYg3b8M_lCE33b0m_urvIfeDkMeM6Gar1vRSBzld4PUnvgKbbiiTylwsCPaAG6WnYHtOTuUmuJcVG25wuyjZCTQYwrNDkgsM2AnAZTaEFjah0JMroBOqBM_IyhFzvi2jKjBjJX6b6VTqDK2uLirzuVrHv_9we5d--u-7dNWBjrW0uB3-SXAVnupGQq2S7srHdDxMuC2Vn6426h_fPbNFToamXckKqPzccAOVMzRjzOR53oEaA1chnYVXlkw_r7XMX-FvhHpKhyFNJkjSHuwWHZBMRv7rLm3l4iVrD_aa_qDbqi4JOe-VR67uH5xYu1W4s9qJs1p4oc1UuWTdWroy3UMVmvwkkww_LuIZLMMCCpfxbv&xkcb=SoAg6_M3DEN4uCQiGZ0KbzkdCdPP&camk=H-lBaXMUocLTqsFrn1OG-A==&p=1&fvj=1&vjs=3
+Salary: $110,000–$120,000 a year -  Permanent, Full-time
+
+Title: Automation Engineer
+Company: DBG Canada Limited28 reviewsDBG Canada Limited in Mississauga, ON
+Location: DBG Canada Limited in Mississauga, ON
+Summary: GENERAL RESPONSIBILITY
+This role is for an Automation Engineer who will be responsible for all new automation projects and improvements to existing automation equipment thought DBG’s entire manufacturing facility. Troubleshoot equipment & process issues on the line along with maintenance team. Implement any new equipment being installed on the line. Support entire plant with all new & existing automation projects. PLC programming of weld fixture & stamping dies. Designing of new automation systems from scratch. New electrical systems design. Integration of robots to PLCs (ABB, Motoman & Kuka). Developing Preventative Maintenance plans for all new automation equipment.
+SPECIFIC RESPONSIBILITIES
+Maintain and encourage a safe work environment.
+Follow ISO / QS 900 & TS16949 procedures.
+Automation lead for all new & existing automation projects.
+Creation & execution of project timelines and budgets.
+Ability to program & troubleshoot PLCs.
+Ability to design & read wiring diagrams.
+Mechanical design for new automation projects and improvements to existing equipment
+Develop preventative maintenance (PM) schedules for all new equipment.
+Programming experience in MySQL, NoSQL, PHP & HTML is preferred but not necessary.
+Experience with JDE or SAP is preferred but not necessary.
+Work with Program Managers to ensure the successful launch and absorption of new programs.
+Arrange for and work with outside sub-suppliers as required to launch, maintain, or repair automated processes.
+Utilize best practices in assignment planning to make the most efficient use of resources, time and material.
+Experience with SolidWorks, NX, or equivalent 3D design software
+EDUCATION REQUIRED
+Post Secondary education in engineering. Degree or Certificate or equivalent experience.
+EXPERIENCE REQUIRED
+2 - 5 years in a manufacturing environment , working in a similar capacity.
+Knowledge and experience in PLC programming, robot programming, electrical systems design
+Knowledge and experience balancing assembly lines and process improvement.
+Job Types: Full-time, Permanent
+Benefits:
+
+Dental care
+Extended health care
+Life insurance
+RRSP match
+
+Schedule:
+
+Morning shift
+
+Experience:
+
+Automotive Industry: 2 years (required)
+Manufacturing: 2 years (required)
+PLC programming: 1 year (required)
+robot programming: 1 year (required)
+Metal fabrication: 1 year (required)
+
+Work Location: In person
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Bs7p5zH5TFOwcqN6YbtCXYNrAvFobQJe5D2t_lz_MBsRwaRswvNgCBZ1MROr8YBcroZF_EZ9rkyttSJd2gK-oD7L4zSnnHQPNbNVJpFcX42ftMcBTC85O1dB3PMqVvDKHGyis-vDCoS65K1weG-SVDLwmxOe9EWHh9VxtA6f1j5WHtaeYldcWLq8jV4JLzQDiL8HQ9wHubfsApWMA6Zh710rQtUHzlH1dw6bReJIQJ3ABjR6nBgdqI55JT_lgJebkuanc--pNTytZW7hvVeyI5S_lviMEArecygiXhWBvliuENNAr8olSWyUmzeF7ECDd8dwrLrqEHcuIOomIoOln5hcbcgBSO2QIenwFbYjhUaeYQb5MrUsJc7fEAXPxzyJ8ALPUjxsD8UWzG8gvPAJMZvMzecN5BY32LrI7ih4F78qUaN84gp68VhYqcFvlMcfL8uziUjywXnxHoxhKPqLdc7BIR8FRVssuBhxh7EL846MNLl03jBW6wRMIzFExtMh7TTbVcCHeBFYZ3V4FdRa416EukGdXUK4fFG-qMbMWkQq2zYvWMIup-O4arKsMlKbTwMDAnnpg_TueFIoBCE5WqLYytSeGSN6BP8CS1vs5BKaqTZSI8DlM6Nn4zEmY2ZoE=&xkcb=SoC96_M3DEN4uCQiGZ0JbzkdCdPP&camk=4HOcmqOLYrDg0qgI6GT5vQ==&p=2&fvj=1&vjs=3
+Salary: No Salary Found
+
+Title: Senior Software Engineer
+Company: Soneil ElectronicsSoneil Electronics in Brampton, ON
+Location: Soneil Electronics in Brampton, ON
+Summary: Are you ready to shape the future of sustainable transportation? Join our cutting-edge EV charging technology startup, where we're revolutionizing the way electric vehicles are charged. As a Senior Software Engineer, you'll play a pivotal role in developing software for innovative products that will drive the adoption of electric vehicles worldwide.
+At Spark, we're on a mission to accelerate the transition to a greener, more sustainable future. Our team is passionate about creating advanced EV charging solutions that not only make electric vehicles more accessible but also enhance the overall EV ownership experience. We're committed to pushing the boundaries of technology and design, ensuring that EV charging becomes convenient, fast, and efficient for everyone.
+Role and Responsibilities
+· You must be passionate in developing creative solutions for the EV industry.
+· Work across the full stack, building highly scalable distributed solutions that enable positive user experiences and measurable business growth.
+· Proactively monitors industry trends and identifies opportunities to implement new technologies.
+· Familiar with industry standards of writing codes and recommended practices.
+· Comfortable working with changing priorities and developing solutions independently.
+Requirements
+· Bachelor’s or master’s Degree in computer science, engineering (or equivalent).
+· Over 8 years of robust software development experience.
+· Proficient in full-stack development.
+· Hands-on experience with Embedded Linux and Embedded RTOS.
+· Expertise in embedded software engineering using Arduino and Raspberry Pi.
+· Familiarity with serial protocols, including MODBUS, SPI, I2C, and CAN.
+· Programming language proficiency in C, C++, C#, PHP, and JavaScript (Node.js).
+· Database management system skills, particularly with SQL (MS-SQL, MYSQL).
+· Computer networking experience, encompassing TCP and UDP.
+· Experience in sensor interfacing with accelerometers, temperature sensors, and motion sensors.
+· Competence in web technologies, including HTML and CSS.
+· Development expertise with microcontrollers such as AVR, PIC, and STM32.
+· Proven track record in product development, including research, idea generation, detailed planning, and prototype creation.
+· Highly adaptable to changing deadlines and project requirements.
+· Strong problem solving and critical thinking skills.
+· You must be a self starter and able to work within a collaborative team environment.
+· Interest in learning new tools, languages, workflows, and philosophies
+Job Type: Full-time
+Salary: $70,000.00-$120,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Dental care
+Extended health care
+On-site parking
+Vision care
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus pay
+
+Education:
+
+Bachelor's Degree (preferred)
+
+Language:
+
+English (preferred)
+
+Ability to Commute:
+
+Brampton, ON L6T 3T6 (required)
+
+Ability to Relocate:
+
+Brampton, ON L6T 3T6: Relocate before starting work (required)
+
+Work Location: In person
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0DrTS1DhqZM3bhZNfXh_TfyAjIJAW5sk13nUER4ARJeHT6B4Bs7_JGWtDG81RaHqzOTDHUw6_C7yYeGnobXR1LeqldfP50LcAkhPp4SITVZfqvURJiqqia9WYdnXwB860eVapLmZqOP4ST8ZIPpKaPug6Jc3X3ipucKYOgLVkalm4u6pU04at_CEJnkMU1QiNlZLD6yOu2i6FYmRWJKHVDCcpExU812dtFt_1cCWZ8s9WyPMvKWwliR9N-7spC8lWqPOF4ozTnGMFCv6GnIcZp5pmU_LVyNPU6Drmo_uSiKERrUADzmVoQYMGgad9rWOcSyfT1Tpkn9rJg20CO99DuHHtV-AFvrJCZpwUkiBbMtZs-mD3DcNxNeuHewZcGopwrp6o9TqjO_rBwSwJWVj_vB6HK7VhP2RiNoIvPItyhpSHaDkaTDk8RuBLL4xASlpoLqdKjcRw9PQgLccaIHchEoZZLm7QfAWlVGZ-eXR8OLDB2IemOJp6MVoRQLd20Z8BvlS8tY0sNenh9veoQEdhma_fosPMYB9OgO5WLUDc0cgFo-OBGFck7NfHjpKISOjahad1jfoqMieRtNeEQH2udOcB7mv3Tu4-6FgFVd_iZGvQwzPB6GDoZJ&xkcb=SoAJ6_M3DEN4uCQiGZ0IbzkdCdPP&camk=4HOcmqOLYrDhKKup-x790w==&p=3&fvj=1&vjs=3
+Salary: $70,000–$120,000 a year -  Full-time
+
+Title: Full Stack Software Developer
+Company: Media Resources IncOakville, ON
+Location: Oakville, ON
+Summary: We are currently looking for an experienced Full Stack Software Developer to join our engineering department that is passionate about solving problems, learning, and collaborating towards finding the best solutions.
+Reporting into the Software Development Manager, you will be responsible for designing, writing, and testing code for new systems and software to ensure efficiency. You will create the foundations for operative systems and run diagnostic programs to certify effectiveness.
+The primary responsibilities and duties include; but are not limited to:
+· Re-build and improve diagnostic system.
+· Build and maintain Content Management System
+· Write maintainable, testable, and performant software.
+· Participate in code review and perform testing to ensure high quality software.
+· Contribute to all phases of the software development life cycle.
+· Autonomously seek opportunities for further technological advancement.
+· Create and maintain technical documentation.
+· Design, write, read, test, and correct code for new and existing software
+· Analyze information to recommend and plan the installation of new systems or modifications of an existing system
+· Evaluate simple interrelationships between programs such as whether a contemplated change in one part of a program would cause unwanted results in a related part
+· Write, modify, integrate and test software code for Desktop, Internet and mobile applications
+· Develop, implement, modify and maintain features that integrate effectively into existing software
+· Write documentation for new and updated software.
+· Work collaboratively with other team members and leadership
+· Additional responsibilities and duties as assigned.
+Requirements / Qualifications:
+Academic Training:
+· A bachelor's degree in computer science or software engineering or in another discipline with a significant programming component or completion of a college program in computer science or related field is usually required.
+· Progression to software engineer is possible with experience.
+· Bachelor from a reputable university in related technical field or equivalent practical experience.
+Work Experience:
+· 2+ years of experience as a full-time Software Developer.
+· Experience with Angular and/or React, HTML, SCSS, JavaScript, jQuery, Django and/or NodeJS, MySQL or MS SQL or DynamoDB, REST API design.
+· Experience working with Windows and Linux environments.
+· Experience working in a Continuous Integration environment with unit tests and automated tests as part of the development flow.
+· Additional experience with AWS, Docker, PHP and GO is a plus.
+· Real-time software development experience
+· Embedded systems development
+Specific Competencies:
+· Ability to design, write and test high-quality code.
+· Strong knowledge in Object Oriented development and Functional Design.
+· Desire to learn other languages and technologies.
+Work Conditions:
+Physical Demands:
+
+Office environment with prolonged sitting, typing, and phone usage.
+
+
+Manual dexterity required to use desktop computer and peripherals.
+
+
+Lifting or moving boxes up to 50 lbs. may be required.
+
+Cognitive Demands:
+
+Time management
+
+
+Multi-tasking
+
+
+Reading / writing
+
+
+Memory recall
+
+
+Communication
+
+Job Type: Full-time
+Benefits:
+
+Dental care
+Life insurance
+Vision care
+
+Schedule:
+
+Monday to Friday
+
+Education:
+
+Bachelor's Degree (preferred)
+
+Language:
+
+English (preferred)
+
+Work Location: In person
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0COySeaw098l6Z0s-H_HJJO-1xv3fxUaxf8wR39Fmy0DBFtuWcQu37Nbjq301tGbjD4dbRA-CPLlwcgEzQXq5eFgae4xT5vcQpvPzreTa0ZiVA0ywDV7xX6XnzPxdv4TFWnf6P9mECrKGkigKuElCvhKjqlI1zID6UNvuInHkP4V5FXfYSmcZGEuQ2gmnpNdPjJvDTq9u2IZf0h1MMcYtsF79tKDLhHI7atVNycAC0iGf9HoDZkMPlIFsHYkmHCNKXlZ0hG126sc5qEMFbtuaV4yF7P1o-ttpHKkeQsk_pALAN74Ee36GBTI9MhsR06F031XZTYNfPCexDDgNQK8W6QgHOkwst6JiQKluQhQSsesYDxSxsJRFeVEkBw-bpJcK0ogUvV1PhcXB42uui3JiGiOYFM00Wp1GmIDdoWXH-6yThNixdif0QuXnNAO-y2W2pl3Hwfil_Ck-S8rmgC6jrI64-K634J0rG74q-_-lY1rDkVROux8ox-Iiw6tI1sRQob6skNnmWkOzxQ808rHDUfMbAJX7N5QKO_g2l7o_cTZQX74dCwWCiYYdRuk9h4ajS4W1Ns2XnR1OH2MFSa4C87gaOOtnhY_w4QPxh19Q33-LT1GDTVnw5LTea0oM6IJlA=&xkcb=SoCH6_M3DEN4uCQiGZ0PbzkdCdPP&camk=4HOcmqOLYrBxh9p1wwh1-A==&p=4&fvj=1&vjs=3
+Salary: No Salary Found
+
+Title: Senior Software Developer
+Company: HR Options, Inc.HR Options, Inc. in Toronto, ONRemote
+Location: HR Options, Inc. in Toronto, ON
+Summary: Company: HR Options, Inc.
+Position: Senior Software Developer
+Job Reference: 2707251
+Work Location: Toronto, Ontario, M5V 1V6 (Remote work available)
+Job Type: Full-time, Permanent (Day, On call required)
+Start Date: As soon as possible
+Wage: $53.00 to $61.00 hourly (to be negotiated)/ 40 hours per week
+Bonus: Yes
+Benefits: Dental & Health care plan, Disability benefits, Paramedical, Vision Care, Life Insurance, PTO
+Languages: English (both written and verbal)
+Other:  Must be eligible to work in Canada
+Job Duties:
+
+Write, modify, integrate and test software code
+Maintain existing computer programs by making modifications as required
+Identify and communicate technical problems, processes and solutions
+Prepare reports, manuals and other documentation on the status, operation and maintenance of software
+Assist in the collection and documentation of user's requirements
+Assist in the development of logical and physical specifications
+Research and evaluate a variety of software products
+Write, modify, integrate and test software code for e-commerce and other Internet applications
+Develop data, process and network models to optimize architecture and to evaluate the performance and reliability of designs
+Collect and document user's requirements and develop logical and physical specifications.
+
+Education & Experience:
+
+3-5 years of experience as a software developer
+College, CEGEP or other non-university certificate or diploma in computer programming from a program of 1 to 2 years.
+Must have knowledge of various computer programming languages, systems and tools such as Jenkins, Jira, Model-View-Controller (MVC), Spring Framework, Linux/Linux – VxWorks RTOS, Java, Object-Oriented programming languages, Database software, software development, Git, Python, Cloud, MySQL.
+Design experience required.
+Specialization in the areas of development and e-commerce required.
+Agile environment experience.
+
+Additional Information:
+Work setting: 
+Office, Remote or Mobile
+Work conditions and physical capabilities: 
+Work under pressure,
+Tight deadlines
+Attention to detail
+Sitting
+Personal suitability
+Accurate, Efficient interpersonal skills, Excellent oral communication, Excellent written communication, Initiative, Judgment, Organized, Team player, Proactive, Analytical, Quick learner
+How-to-apply Instructions:
+Direct Apply
+By applying directly on Indeed.
+OR
+Please include a Cover Letter with your application, including the Job Reference number, your highest level of education, and name of the institution where it was completed.
+larnold@hroptions.com
+3601 Hwy 7 #1005, Markham, ON L3R 0M3
+HR Options, Inc.
+Job Type: Full-time
+Salary: $53.00-$61.00 per hour
+Expected hours: 40 per week
+Benefits:
+
+Dental care
+Disability insurance
+Extended health care
+Life insurance
+Paid time off
+Vision care
+
+Schedule:
+
+Day shift
+Monday to Friday
+On call
+
+Supplemental pay types:
+
+Bonus pay
+
+Application question(s):
+
+Are you available for shift or on-call work?
+Are you available for the advertised start date?
+Are you currently legally able to work in Canada?
+Do you have previous experience in this field of employment?
+Do you have the necessary equipment for remote work (i.e. internet, home office, etc.)?
+What is the highest level of study you have completed?
+
+Education:
+
+DCS / DEC (preferred)
+
+Work Location: Hybrid remote in Toronto, ON M5V 1V6
+Application deadline: 2024-03-13
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0ASeB2WtVuaYJryMuY468OvpblQKdmvX39WyDQr9MxuUUP7IvS_SAra4nLyY1ZpA65SRTH8NRnbX67ZR0jTz1QEGdbD3XVVUxzzUMCbfGV3lCwyRPB6CW3HTzknr8MeYAMrpLmbBGPBZ_kjYuvnFnP1gVNHF2VIWH3YyS9onS3kD6QKVLn07cLSjZF2Fkiu73C-Q6hrfRumv74CYxJnMX4QCUc7C3tZ-TE14xlXyRlQZUMIb01sfe8gFrcVXLHzrWtplxDBz9g8NoqFqv9zHg2h_PEnTeH7hMnUiCTMgF_HjQxUQhBUOSJChX7Y2KmRuycYLbnkfvK6-GUeYjGGO_eYpLSuW0gSMRV6VIliH2fMYi2V527aOfPEcEilC2R6lj9WxTEURPSEjTZQIKEj5730PsJAznzxUJNZQWhEPAGYRJZCnQdhJspuvygtY3a-BjEYEwGA3SdGG7T8vHo2rGgR6umSae9xu-PYQucySE7eOH0xmWOByUhD5vyB_gPDAc5fGQCKGWFHezvc0-SC38xInG158ht4dQj5mnX_3am04r-iS2qB6lojG0FUYk2Vfy6V8X3CoqOdxwEbYUe5tFEvaWPTqf15bmvIK1fBpn1mv_VnP9n88Wq5&xkcb=SoAz6_M3DEN4uCQiGZ0ObzkdCdPP&camk=4HOcmqOLYrB_K3yPcz9E7g==&p=5&fvj=1&vjs=3
+Salary: $53–$61 an hour -  Full-time
+
+Title: Software Applications Developer
+Company: General Dynamics Land Systems(part of General Dynamics)310 reviews1991 Oxford Street East, London, ON
+Location: 1991 Oxford Street East, London, ON
+Summary: Description 
+At General Dynamics Land Systems we put our Customers at the centre of everything we do. Our commitment to protect and enable the people who serve drives us to develop products and systems that give them a clear advantage for mission success. We are looking for passionate individuals to help us deliver innovative, unique solutions to our Customers. This is a hybrid position located in London, ON.
+
+ Key Job Elements:
+
+ Develop software applications for use on LAV products 
+Create solutions that meet or exceed requirements in areas such as scalability, maintainability, reliability, extensibility, usability, and security.
+ Testing and validation of new features for emerging and legacy products 
+Provide input into tools, training, and environment selection for next generation products 
+Seek out areas to improve current software design processes
+ Field testing and validation with customer when required
+
+
+ Required Qualifications:
+
+ Development experience in the below areas:
+   
+ Web (Vue, REST APIs)
+ .NET (C#, Prism, WPF, Entity Framework)
+ QT
+ C++, Rust
+ Python
+
+ Experience using various Linux distributions (RedHat, Debian, Ubuntu)
+ Strong communication and organization skills
+ Experience working with teams and/or customers
+ Ability to Travel (5% Canadian, 5% US & International) and possess and maintain a valid passport
+ Graduate from either Computer Science, Computer Engineering, or similar programs
+
+
+ Preferred Qualifications:
+
+ Development experience in the below areas:
+ Yocto Project, Buildroot
+ Messaging Frameworks (DDS)
+ Databases (MS SQL Server, InfluxDB, Postgres)
+ Experience using SysML + UML
+ Expertise in DevOps (Docker, Kubernetes, Ansible, Bamboo) 
+Experience optimizing software to run in a hardware-constrained environment
+ Experience working with construction or agricultural equipment
+ Experience developing Continuous Integration workflows
+ Working knowledge of ISO 11989, Bosch CAN2.0B, SAE J1939 and similar standards
+ Eligibility for Secret level (II) security clearance
+ Game Engines (Unity, Unreal)
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0Ak06JqPOn91NqIrSEDEbVGGfkFOU9PxBKYqs406aD3wCuwYITUtrZjtL728iS9t1a_1cmGjHVGzgfcOuDBs2vR-vyXkfL76CFLa_PFF8BBXe5K7YGVudrAdKd6qdr1h6eitSxbHjxtB9lvLJTmaryGU_nTs_v7G4PPpTwJQi32zzoE4w9lyPDtk64rxuVqU_JqR1e3L0Y4vI6aTuWFjXUvBcSvTQRf9y1TYdlTPtTPuI_sSHXi3lQsNyadKpm9xxZVXhR6D9XrGkcOtZT58PNG96SevccoSvoh8DXbPz5Lc5YFG-oPFPYZ7SMLrr5SfeXDr6OMeHxbd1CG7Xaxb_XS2jeI7iO12ICFReedjN-M39rrTvhG8U2yJtnjVD_IL7WAnVOfB5_xzwnP9QSfn6LRDUdTBtD-kKkqePeW1XgCx2cxrDN9A-C9epiJL2Nr8Caz80vo7NdXw6gISYzu7Ixc4d-YNvJ8az78j_YYP1hDTQNnoC_BPBJT7Z613KOiSaBghS7aWNgwz_f65vJOG6aa1dJv5nEHPAkLtRPk4uolgP5mvzgNBrdRtkeyuZLSR3b-ufeMX09AOt6fsQ6Z_yEnLHBM8vjs9obbIOMep1mcYSL6-kbeuwEKHGupM226NWB_Z5bRxB3E5m_5J1Miu2wpWtb3yMb2Djr9XXncb5uUOK0gMXzdYLEQqvCGWq7nwRMeIOg9NcJNszmjJJqzIOdfAHD5xWpr8LRnJpmzyLCvrw==&xkcb=SoCu6_M3DEN4uCQiGZ0NbzkdCdPP&camk=f416UQcMBpCa5dhcPpswMw==&p=6&fvj=0&vjs=3
+Salary: No Salary Found
+
+Title: Cloud Architect
+Company: ISG Search Inc14 reviewsToronto, ON
+Location: Toronto, ON
+Summary: Our client…
+ Our client, a leader in the financial services field, is seeking a cloud architect to join the team. This position will work with experienced professionals to help drive solutions to provide a best in industry standard for quality, innovation, and efficiency.
+ 
+ Responsibilities:
+
+
+
+Architecture and design level responsibility for the cloud infrastructure architecture for global information technology projects.
+ Member of the core architecture team
+ Works closely with Application Development to ensure Infrastructure and Operational requirements are understood and addressed
+ Ensures alignment with non-functional requirements on development projects
+ Leads design of DFG infrastructure providing the "right size" solution for business projects
+ Promotes the use of common services and shared information resources
+ Responsible for ensuring that all projects are aligned with the approved Enterprise Architecture principles and standards.
+ Lead executive committee meeting with customer stakeholders to monitor delivery progress and customer support experience, promoting a proactive agenda.
+ Conducts formal design reviews of DFG infrastructure
+ Participates with IT Operations and DFG stakeholders to evaluate and measure production readiness
+ Coordinates vendors during infrastructure technology selections
+
+ Must Have:
+
+ 8+ years of expertise in technical architecture specializing in Cloud technology, Automaton, Documentation and Virtualization
+ Practical knowledge and experience of a broad range of infrastructure technologies and Internet facing environments.
+ 8+ years of experience in the design of complex, distributed systems with 24/7 operational requirements
+ Demonstrated ability to design infrastructure to achieve high levels of availability
+ Expertise in storage technologies, configuration and management
+ Experience in Enterprise-level software package integration and deployment
+ Experience with performance management technologies
+ Knowledge and implementation experience with service management concepts and practices such as ITIL and Microsoft's Operations Framework (MOF)
+ Provide detailed reviews of service disruptions, metrics, and risk management.
+ Expert understanding of software development and infrastructure project lifecycles
+ Ability to define and maintain architecture principles driving the direction for infrastructure investment and deployments
+ Ability to translate business requirements into technical architectures & operation methodologies.
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0CngyYFrWM1hC8NjdejxldHdaRKqwZKfE1iN0ynAC8fxYOq2FCBOwctZyEvhqUJ2OBbxzoIUho9JNgpiLU87Scyy1S_8ENMpon7PZY99R9zbHOxztuK8rBqv4Ubypev9_9ffp0SDDoMfcFpNU3m3HwT2W_xc-gPxbr3qrntDUtRcPkilViU-yTwB4GoJBaUmMf93yMdktwVGJrRg4CQkzqucdNViHLPxSGT6ce3sxW2xFTTg41qjS32Th6aMgN-XNRBz-Zmdkm0vgQ_r2NmusIiRf4O6ZE0HIGezpYRgCuzJbGC4BICHf_SdWFWD7XZrPPUvIOOtmSI6Ppx2h2L0jKnrNJEUuKLa-Y37M4tzSO5z48PHoPW7OdkSekbVBL7upwrYfIBSDy-HsFp2U0BEBtmKkT3o6bCsYC32KgWgfLScDXyt6E1H_w4xCRb4NoslqRgaJH44cvzjX6EY77nLxtVudLPAoEIg0J3aU6AL-xiwqN_7k-KMSnwJKV7Sl2TVZ20DI1D15O132XUdEA3OD4kPZa7hMO0dkkOmoKNviOChfAHF2XJ0eE-QdnJYtm4ddcvWMKjNND-tG6P25j2yEnirIrdR4OmyJPh1MXQU-bQNcM1jTL77lg0dMm9qmyUCBKZeiBbTPEsh05JIirtsOArmF8YTyM70mqDZxjWKZzzz3KJDIIUjmfX&xkcb=SoAa6_M3DEN4uCQiGZ0MbzkdCdPP&camk=NFVmwABINBLvvzXFtMe5Ew==&p=7&fvj=0&vjs=3
+Salary: Up to $150,000 a year -  Full-time
+
+Title: Software Quality Engineer
+Company: GAO Research601 Milner Avenue, Toronto, ON
+Location: 601 Milner Avenue, Toronto, ON
+Summary: Job Description/Job Duties
+
+Quality assurance for a software company 
+Partner with product development teams to: establish and track quality indicators, ensure that product quality release criteria are defined, monitor product readiness against release criteria, raise issues to management's attention when quality criteria are not satisfied 
+
+Qualifications
+
+Engineer with 2+ years of related experience 
+Track record of hands-on creation of test strategies, plans and scripts 
+The ideal candidate will have a thorough knowledge of the Development/Test Life Cycles and Test Methodologies 
+Should have experience in monitoring project life cycle and ensuring code quality.
+Link: https://ca.indeed.com/rc/clk?jk=ee162e94aec14507&bb=MgLgZHNARMWNVVwTKHJ9_mcUHNO09B4yurr5w5aOrOZJolifb6McIZ3RPBNdMvm2s4jPWveye2Ti9D15Mu9U7mRR85WUVn9-J-n9j1eMvSg%3D&xkcb=SoAH67M3DEN4uCQiGZ0DbzkdCdPP&fccid=64f47c70558a09bf&vjs=3
+Salary: No Salary Found
+
+Title: High-Speed 5 Axis CNC Programmer
+Company: Unique Tool & Gauge Inc.1505 Moro Dr, Oldcastle, ON
+Location: 1505 Moro Dr, Oldcastle, ON
+Summary: CNC ProgrammersCome join our innovative and progressive team! We are excited to announce the current opportunity for a dedicated High-Speed CNC Programmer to join our team.
+Unique Tool & Gauge Inc. was established in 1982. Over the years we have become the leaders in quality for the mold making industry. Our facility is equipped with some of the most productive and efficient machines available today.
+Unique Tool & Gauge Inc. welcomes and encourages applications from people with disabilities. Accommodations are available (upon request) for candidates taking part in all aspects of the selection process.
+It's against our policies to discriminate based on certain personal characteristics such as race, ethnicity, national origin, religion, age, sex, sexual orientation, gender identity, family/marital status, disability, medical or genetic condition and all other legally protected classes.
+Job Description
+
+Program cutter paths for 3-5 axis CNC Machines with Fanuc or Heidenhain Controls
+Program, review and edit programs using Cimatron software
+Ability to set up programs for work for machining for both day and afternoon shifts
+Communicates tooling needs to CNC Manager and Shop Foreman
+Works efficiently to meet critical deadlines while maintaining quality
+
+Requirements
+
+Previous CNC Programming/Machining experience required
+Exceptionally well organized, results-driven
+Ability to time manage and prioritize multiple competing tasks
+Accountable for work performed and strong communication skills
+Ability to work under pressure
+Strong problem solving and technical skills
+
+Qualifications
+
+High School Diploma
+
+Perks & Benefits
+
+Straight day shift
+Gym Membership
+RRSP contributions
+Life & Critical Illness insurance
+Overtime after 40 hours
+Group Health, Dental, & Vision Benefits
+Advancement Opportunities
+Ongoing training & career development
+Company events
+Free monthly lunches
+Free on-site parking
+Competitive salary
+Weekly pay
+
+Salary Range
+
+$26-30 per hour
+Overtime after 40 hours
+Weekly Pay
+
+Job Types: Full-time, Permanent
+Salary: $26.00-$30.00 per hour
+Benefits:
+
+Company events
+Dental care
+Disability insurance
+Employee assistance program
+Extended health care
+Life insurance
+On-site parking
+RRSP match
+Vision care
+Wellness program
+
+Schedule:
+
+8 hour shift
+Day shift
+Monday to Friday
+
+Supplemental pay types:
+
+Overtime pay
+
+Experience:
+
+Cimatron Software: 1 year (preferred)
+5 Axis CNC programming: 3 years (required)
+
+Work Location: In person
+Link: https://ca.indeed.com/pagead/clk?mo=r&ad=-6NYlbfkN0D1kZg9hUH-3VKOlsauLS70YxB62iHQRXlgT0mTfRhzuXHn_acZ_3ObPPZBRT4gd2tvLbr9h0mCbHrWK_EWDPPSUjTGjI5xUQJjEO-xtX0RfEUftd_LRblvmVO-ZXw1V0WlyfbomKjxxeKFhDNoHqVsYRkfIiM2AqYD65KkX4k8xRK4Z6KiYy99G0qvJcU4GiiRMgPrgIO_W8HfftnttJewlIHKX2kultSv_8ewpvEWhAzq4z-VRnFzfh-Mi1JfUTTIteKI-mpZT7v5TtmxvDZjUfhnAsLOFnmGQLbeJrhwkA6VdOwO_K7idpTj3-aJaZ453rHtDbog3DPj1o7bol9D1LSj-4YWrBlbGiD4eoczBT4U7No_6UzrJOZCd60mijk482h21w6nntaaBFTK9ZTwPiUdeao-Mwms6dqjxOHPq3YTjoIcoihj1RKbeGyT-cKNN2XdRz8EMYdAfXNGgAlvm15oMnoAk6jokSkcAly0m7aOUmVekHD2f_mzirre67NP6xyaxN3UrYikr38loFI1jXmXpLEZuKGd872w1wnC4TybGSYVZGOutvfb2qLMdNnOrrZAEPrILpmJ4LreQGoKlNyEo4LfTtlWyrtENlnezvkZYRkpL0QZWrdLDE3Nfp7-aV3jLDP7Vl4kk-cSpTaazdomvOtZV00=&xkcb=SoBH6_M3DEN4uCQiGZ0CbzkdCdPP&camk=4HOcmqOLYrCnxLPFBcPAWw==&p=9&fvj=1&vjs=3
+Salary: $26–$30 an hour -  Permanent, Full-time
+
+Title: Software Development Engineer
+Company: Amazon Development Centre Canada ULC - K0347,612 reviewsToronto, ON
+Location: Toronto, ON
+Summary: 3+ years of non-internship professional software development experience
+2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+Experience programming with at least one software programming language
+ Ring's mission is to make neighbourhoods safer. We strive to make safety and peace of mind accessible to everyone and empower communities to work together for one another. 
+
+ Ring Marketing Technology team is looking for a driven, innovative and resilient Software Development Engineer (SDE) to join our team focusing on notification and messaging systems. Our scalable systems ensure critical messages are delivered to customers timely and accurately. We are looking for an SDE to help refine our roadmap and technical direction, and follow through with detailed architecture, design, tests, and reusable code. The SDEs in the Ring org drive the operational excellence of high-scale distributed systems. 
+
+ SDEs at Ring contribute to all the steps of the software development lifecycle. They gather, discuss and suggest requirements and features, they design and implement software, automate testing and operate the services their team owns. 
+
+ Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future. 
+
+ We are open to hiring candidates to work out of one of the following locations: 
+
+ Toronto, ON, CAN 
+
+
+
+3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+Bachelor's degree in computer science or equivalent
+ Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+Link: https://ca.indeed.com/rc/clk?jk=400677c999922687&bb=MgLgZHNARMWNVVwTKHJ9_mcUHNO09B4yi3ocMUyRPghOdfvm366S_xTrw_Uf04toy1bU-V1kDmfufh55_-US27lUDvFrhXnMOE-cO5GbOx4%3D&xkcb=SoAu67M3DEN4uCQiGZ0BbzkdCdPP&fccid=fe2d21eef233e94a&vjs=3
+Salary: No Salary Found
+
+Title: MongoDB developer
+Company: Ascendion4 reviewsMississauga, ON
+Location: Mississauga, ON
+Summary: Description
+About the job
+ About the job
+ About Ascendion
+
+
+ Ascendion is a full-service digital engineering solutions company. We make and manage software platforms and products that power growth and deliver captivating experiences to consumers and employees. Our engineering, cloud, data, experience design, and talent solution capabilities accelerate transformation and impact for enterprise clients. Headquartered in New Jersey, our workforce of 6,000+ Ascenders delivers solutions from around the globe. Ascendion is built differently to engineer the next.
+
+
+ Ascendion | Engineering to elevate life
+
+
+ We have a culture built on opportunity, inclusion, and a spirit of partnership. Come, change the world with us:
+
+
+
+Build the coolest tech for the world’s leading brands
+Solve complex problems - and learn new skills
+Experience the power of transforming digital engineering for Fortune 500 clients
+Master your craft with leading training programs and hands-on experience
+
+
+
+ Experience a community of change-makers!
+
+
+ Join a culture of high-performing innovators with endless ideas and a passion for tech. Our culture is the fabric of our company, and it is what makes us unique and diverse. The way we share ideas, learning, experiences, successes, and joy allows everyone to be their best at Ascendion.
+
+
+ About the Role:
+
+
+ Job Title: MongoDB developer or Java MongoDB Developer
+ Location: Mississauga, Ontario - Hybrid 1-2 days on-site
+
+
+ Job Description:
+
+
+
+The candidate should have a passion for tackling complex problems and helping develop innovative solutions, attain a self-motivated pro-active attitude, inquisitiveness, and eagerness to learn, and demonstrate ownership with the drive to troubleshoot issues methodically and deliver under pressure.
+A successful candidate will have experience working within an agile software development lifecycle, collaborating with his team, partnering effectively, and executing on cross-dependencies across the organization with technology leads, architects, production management, business analysts, and quality assurance groups.
+
+
+
+ Key Responsibilities:
+
+
+
+4-8 years of relevant experience in Apps Development or systems analysis role
+Has hands-on experience in NoSQL MongoDB
+Design and implement data pipelines and data storage solutions.
+Develop and maintain MongoDB-powered applications using MongoDB
+Implement appropriate indexes (B-Tree, Geospatial, Text) for performance improvement
+Develop MongoDB and API prototypes and proofs of concept.
+Subject Matter Expert (SME) in at least one area of application development
+Has a passion for solving tough problems and proposing elegant solutions.
+
+
+
+ Salary Range: The salary for this position is between $100,000 - $ 105,000 annually. Factors which may affect pay within this range may include geography/market, education, experience, and other qualifications of the successful candidate.
+
+
+ This position is eligible for commissions in accordance with the terms of the Company’s plan. Commissions for this position are estimated to be based on individual performance. Additionally, this role is also eligible for a bonus based on the achievement of mutually agreed KRAs.
+
+
+ Benefits: The Company offers the following benefits for this position, subject to applicable eligibility requirements: [medical insurance] [dental insurance] [vision insurance] [401(k) retirement plan] [long-term disability insurance] [short-term disability insurance] [personal days accrued each calendar year. The Paid time off benefits meet the paid sick and safe time laws that pertain to the City/ State] [12-15 days of paid vacation time] [6-8 weeks of paid parental leave after a year of service] [9 paid holidays and 2 floating holidays per calendar year] [Ascendion Learning Management System] [Tuition Reimbursement Program]
+
+
+ Want to change the world? Let us know.
+
+
+ Tell us about your experiences, education, and ambitions. Bring your knowledge, unique viewpoint, and creativity to the table. Let’s talk!
+Preferred Skills:
+
+Mongodb 
+   
+
+     mongoDB indexs 
+    
+
+     Java 
+    
+
+     NOSQL 
+    
+
+
+Job details
+
+
+Job ID
+
+
+   329718
+  
+
+
+
+Job Requirements
+
+
+   MongoDB developer
+  
+
+
+
+
+Location
+
+
+   Mississauga, Ontario, CA
+  
+
+
+
+
+Recruiter
+
+
+   Yashrajsinh
+  
+
+
+
+Email
+
+
+   yashrajsinh.k@ascendion.com
+  
+?>
+Link: https://ca.indeed.com/rc/clk?jk=cb009638689ee511&bb=MgLgZHNARMWNVVwTKHJ9_jtSU6DLBsCgyoR5vHNdU4LE_q6R7z-rj89pxN3KetZ1smqmkzBJRmXwCT8O9H6l9-xEYO5EOJfNanJgEZ0CsmY%3D&xkcb=SoCa67M3DEN4uCQiGZ0AbzkdCdPP&fccid=901337852c4e0e82&vjs=3
+Salary: $100,000–$105,000 a year
+
+Title: Software QA Engineer
+Company: Verifone535 reviewsMississauga, ON
+Location: Mississauga, ON
+Summary: Why Verifone
+ For more than 30 years Verifone has established a remarkable record of leadership in the electronic payment technology industry. Verifone has one of the leading electronic payment solutions brands and is one of the largest providers of electronic payment systems worldwide.
+ Verifone has a diverse, dynamic and fast paced work environment in which employees are focused on results and have opportunities to excel. We take pride in the fact that we work with leading retailers, merchants, banks, and third party partners to invent and deliver innovative payments solution around the world. We strive for excellence in our products and services, and are obsessed with customer happiness. Across the globe, Verifone employees are leading the payments industry through experience, innovation, and an ambitious spirit. Whether it's developing the next platform of secure payment systems or searching for new ways to bring electronic payments to new markets, the team at Verifone is dedicated to the success of our customers, partners and investors. It is this passion for innovation that drives each one of our employees for personal and professionalsuccess.
+ What's exciting about the role
+
+
+Collaborate with engineers and acquirer representatives to understand product requirements to ensure successful remediation.
+Triage and report failed test cases to development departments and facilitate investigation and delivery for any potential solutions.
+Document the reported certification defects in JIRA, and work with development team to take appropriate corrective actions to improve/correct design.
+Overview key design decisions, technology choice, structure and configuration of the solution ensuring it aligns with the certification requirements.
+Report new or recurring problems to development departments and works to solutions.
+Obtain, clarify, and impart technical knowledge regarding existing and newly released VeriFone products.
+Identify and present solutions for process improvements.
+Perform other related duties as assigned.
+
+
+Skills and Experience we desire
+
+
+Recognized Degree / Diploma in Computer Science, Computer Engineering or a computer-related discipline.
+Working knowledge of EMV transactions processing and EMV test tools.
+Working experience in testing, product validation and payment application certifications in the card payments or banking industry,
+Working experience with the banking/finance industry and/or payment applications.
+Sense of urgency and drive to succeed. You should be comfortable working within a deadline driven environment, and flexible to work overtime when needed.
+Proven track record working in a multitasking and dynamic environment.
+Understanding of the complete end to end of software delivery and standard methodologies.
+Experience working with hardware, software, QA, and product management teams.
+Ability to learn and adapt to industry practices and company policies and procedures.
+Self-motivated fast learner and great teammate who takes initiative and collaborates with others.
+
+Personal Attributes:
+
+High energy level, can-do mentality, resilient, and good work ethic.
+We value integrity, honesty, maturity.
+You have a strong partner and customer focus.
+Committed to striving for continuous improvement every single day, while also having fun. You identify as a dedicated, creative self-starter who isn't afraid to take initiative.
+
+Our commitment
+ Verifone is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. Verifone is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+Link: https://ca.indeed.com/rc/clk?jk=b57763eaa192238b&bb=MgLgZHNARMWNVVwTKHJ9_lmSYuGyOEFo-vxHycvcwz61Ry1H3LZF3opXhgcc8T_oqCY8QBdexLa81Q60qhDqvFrvnon26lNnmXOrSwWMrB0%3D&xkcb=SoAU67M3DEN4uCQiGZ0HbzkdCdPP&fccid=493e9d929f91e902&vjs=3
+Salary: No Salary Found
+
+Title: Senior Backend Software Engineer
+Company: Roche2,556 reviews123 Main St E, Mississauga, ON
+Location: 123 Main St E, Mississauga, ON
+Summary: The Position
+ 
+ Senior Backend Engineer
+ Location: Mississauga or Across Canada
+
+ Impact Healthcare
+
+ Roche Sequencing is not only changing science, but we are changing lives. Our software teams are laying the groundwork for the future by developing powerful bioinformatics algorithms, data analysis tools, and software/systems infrastructures so researchers and clinicians can make better health decisions faster. The path to curing cancer lies in ones and zeros as we work with next-generation genomic sequencing, a new frontier. The complexity and sheer size of the data in the life sciences will make astronomical data problems look modest.
+
+ Do you want to develop software products that scientists and others in the life sciences will use to diagnose, find treatments, and eventually beat diseases like cancer? Our team builds the highly scalable, reliable software and secure systems for better diagnostics. Come join us!
+
+ Make a Big Difference
+
+ As a Senior Backend Software Engineer, you are joining a passionate software engineering team to build sequencing products to change patients’ lives. You will design, implement, and test software features & product infrastructure, primarily from a backend perspective while working with cloud technology - AWS, Serverless computing, Java, distributed platform, Spring Boot, and more. Ultimately, the software you produce will impact patient care globally.
+
+ Who you are
+
+ You have experience building scalable server side applications, have a passion for reliability and security and are curious about the trends in web development. Work with management to set priorities. Excellent communication skills and teamwork is a must!
+
+ Responsibilities:
+
+ Write clean, maintainable code and documentation using engineering best practices.
+ Write unit, component, and integration tests
+ Design, implement, and test backend APIs
+ Research new tools, technologies, and test processes for software development
+
+
+ Requirements:
+
+ 5+ years’ experience in hands-on software development
+ B.S. or M.S. in Computer Science or equivalent field
+ Experience building software products using Java, Spring and REST APIs.
+ Experience with relational databases such as Postgres, MySql
+ Ability and desire to learn new technologies and become productive quickly
+ Experience with Agile / Lean practices and scalable architecture
+
+
+ Nice to have:
+
+ Familiarity in developing cloud solutions using AWS
+ Life sciences background and/or experience in the medical devices fields or bioinformatics experience of any kind
+ Experience developing regulated products under design control
+
+
+ This position is not eligible for relocation support.
+
+ NOTE: All employment is conditional upon the completing and obtaining a satisfactory background check, including educational, employment, references and criminal records (for which a pardon has not been granted) checks.
+
+ AGENCY NOTICE: Please note that Roche Canada does not accept unsolicited resumes from recruiters or employment agencies. In the absence of a signed Services Agreement with agency/recruiter, Roche Canada will not consider or agree to payment of any referral compensation or recruiter fee. In the event a recruiter or agency submits a resume or candidate without a previously signed agreement, Roche Canada explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency.
+
+
+   Who we are
+ 
+ At Roche, more than 100,000 people across 100 countries are pushing back the frontiers of healthcare. Working together, we’ve become one of the world’s leading research-focused healthcare groups. Our success is built on innovation, curiosity and diversity.
+
+ Roche Pharma Canada has its office in Mississauga, Ontario and employs over 850 employees. The Mississauga facility is bright, vibrant, fosters collaboration and teamwork, and is reflective of Roche's truly innovative culture.
+
+ As of January 4, 2022, Roche requires all new employees who work in Canada to be fully vaccinated against COVID-19 on the date they take office. This requirement is a condition of employment at Roche that applies regardless of whether the position is on a Roche campus or remotely. If you have a valid reason for not being fully immunized, which is limited to certain specific medical reasons or other valid reasons protected by applicable human rights laws, you may request an exemption and / or adaptation measures regarding this vaccination requirement.
+
+ Roche is an Equal Opportunity Employer.
+Link: https://ca.indeed.com/rc/clk?jk=2c2a79f5a139e27c&bb=MgLgZHNARMWNVVwTKHJ9_hww_DzOMPzWkER0K9Y0pUltBK0xwj1vwYAUQlg4-CTytiADwXUUZQ6py9h2i-O34Fxbh206kuRhsNipM0VGeRQ%3D&xkcb=SoCg67M3DEN4uCQiGZ0GbzkdCdPP&fccid=bca1c8ed48c3b338&vjs=3
+Salary: No Salary Found
+
+Title: Software Engineer
+Company: Royal Bank of Canada5,024 reviewsToronto, ON
+Location: Toronto, ON
+Summary: Job Summary
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Job Description
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Ownr is on an ambitious mission to help Canadian entrepreneurs start and grow their businesses. We are building a platform that takes the difficulty out of registering and maintaining sole proprietorships and corporations, letting our incredible business owners save time and money to focus on what matters - building their business. We’ve already helped start over 150,000 companies, and we’re just getting started. Being a part of RBCx Ventures, we are a unique type of business. We chart our course developing the technology our clients need, delivering frequently and continually improving our applications and processes. At the same time, we have direct access to the technical resources, expertise and opportunities of one of the world’s leading financial institutions.
+
+ We are looking for a talented individual and passionate team player to join the Ownr team as a Software Engineer 2. You’ll be playing a big part in building the next evolution of our platform as we move to provide extensive new capabilities to business owners, working alongside a close-knit group of fun and ambitious engineers, product managers and designers. Your experience will contribute to the functionality, reliability, and delivery of our fast-moving Node/React-based application, leveraging the latest JavaScript-based tooling and best practices.
+
+ The Opportunity
+
+ You’ll have visibility into, and influence over, all parts of the technology stack, and enjoy a high degree of autonomy in your work.
+ You’ll have a clear view of the product roadmap, the business’ long-term vision, and the opportunity to constructively contribute to both.
+ You’ll contribute to the planning, design, development, deployment, monitoring, and maintenance of significant portions of the software that supports our users.
+ You’ll have the chance to provide and receive feedback from your peers, and get coaching from more experienced engineers both within the team and the broader organization.
+ You’ll use modern tooling throughout, whether that’s something currently part of our stack, or something new that you assess needs to be added to reliably deliver the desired user experience. A snapshot of what’s currently in-use:
+
+ Web client: React, Styled Components
+ Web server: Node.js, JavaScript, TypeScript, Express
+ DB: PostgreSQL
+ Infrastructure: Heroku and AWS (services include: RabbitMQ, Redis, s3, etc.)
+ CI/CD: CircleCI and Github Actions
+ Testing frameworks: Jest, React Testing Library, Cypress
+
+
+
+ About you
+
+ You have have 2+ years experience using JavaScript to build real world applications, preferably public facing. You have a good understanding of development patterns and best practices and how they can impact your ability to be productive in a codebase and by extension, the maintainability of a platform.
+ You have experience building, monitoring and maintaining software that is highly available, scalable, and resilient.
+ You’ll take responsibility for finding opportunities to iteratively improve our technology in any feature you work on, paying down technical debt as a habit
+ You’ll put in the work necessary to empathize with the software’s users and understand their challenges, whether those users are fellow developers, immediate team members, or the entrepreneurs that rely on us to support their business.
+ You’re curious, and naturally invest energy into learning new technologies, techniques, and interpersonal skills that you feel help improve your own productivity and happiness, and the productivity and happiness of those around you.
+ You have excellent spoken and written communication, time management, and project management abilities. You behave proactively to set expectations and find support when you recognize that there are unforeseen challenges or complexity in projects. 
+You are comfortable asking questions and speaking up to help us continuously improve how we do things.
+
+
+ What’s in it for you?
+ We thrive on the challenge to be our best and work together to help our clients thrive and communities prosper. Here is what you can expect if you join our team:
+
+ Work in an agile, collaborative and high-performing team
+ The opportunity to do work that is challenging and take on progressively larger responsibilities
+ Leaders who support your development through regular coaching
+ A comprehensive Total Rewards Program including competitive compensation, bonuses and flexible benefits
+
+
+ About Ownr
+ At Ownr, we have helped thousands of Canadians establish their businesses. As we redefine the entrepreneurship landscape, we take pride in simplifying what it takes to be a business owner. We're on a mission to become the leading platform for entrepreneurship in Canada, and it takes an entire team to build something big. So join our team and discover how we can help entrepreneurs make their dreams a reality.
+
+ About RBCx
+ RBCx pursues big, bold ideas and leverages RBC’s extensive experience, networks, and capital to help shape what’s next. Our four pillars – Banking, Capital, Platform, and Ventures – combine to support tech businesses of all sizes and stages, making us the go-to backer of Canadian innovation. Our people are our most valuable assets, which is why we invest deeply in making sure RBCx isn’t just a place to work, but a place to belong.
+
+ #LI-hybrid #LI-POST #TechPJ
+
+ Job Skills Active Learning, Agile Methodology, Communication, Detail-Oriented, Express.js, JavaScript, Jest Testing Framework, Node.js, PostgreSQL, Problem Solving, React.js, Terraform, TypeScript
+ 
+ Additional Job Details
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Address:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ WATERPARK PLACE, 20 BAY ST:TORONTO
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ City:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ TORONTO
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Country:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Canada
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Work hours/week:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 37.5
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Employment Type:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Full time
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Platform:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Technology and Operations
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Job Type:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Regular
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Pay Type:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Salaried
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Posted Date:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2024-02-28
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Application Deadline:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 2024-03-13
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Inclusion and Equal Opportunity Employment
+ At RBC, we embrace diversity and inclusion for innovation and growth. We are committed to building inclusive teams and an equitable workplace for our employees to bring their true selves to work. We are taking actions to tackle issues of inequity and systemic bias to support our diverse talent, clients and communities.  We also strive to provide an accessible candidate experience for our prospective employees with different abilities. Please let us know if you need any accommodations during the recruitment process.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Join our Talent Community  Stay in-the-know about great career opportunities at RBC. Sign up and get customized info on our latest jobs, career tips and Recruitment events that matter to you.  Expand your limits and create a new future together at RBC. Find out how we use our passion and drive to enhance the well-being of our clients and communities at jobs.rbc.com.
+Link: https://ca.indeed.com/rc/clk?jk=59c173c1eb06bad8&bb=MgLgZHNARMWNVVwTKHJ9_m_7KxpXUHpZqqkILl93MtyjE7Tfc0vzRD0i_UOfpNOwGxnSs_VhWG7MW2oaFaSWdSj8J89xG5w8pRjJrNSqRqM%3D&xkcb=SoA967M3DEN4uCQiGZ0FbzkdCdPP&fccid=537b899e30af3338&vjs=3
+Salary: No Salary Found
+

@@ -1,0 +1,53 @@
+stages:
+  - test_springboot
+  - test_python
+  - deploy
+
+test_springboot:
+  stage: test_springboot
+  image: eclipse-temurin
+  script:
+    - cd spring
+    - chmod +x ./mvnw
+    - ./mvnw test
+  rules:
+    - when: always
+      allow_failure: false
+
+test_python:
+  stage: test_python
+  image: python:3.10
+  script:
+    - cd scrape
+    - pip install pytest pytest-cov pylint beautifulsoup4 selenium webdriver-manager
+    - export PYTHONPATH="${PYTHONPATH}:."
+    - pytest unit_test.py
+    - pytest --cov=. ./
+    - pylint *.py
+  rules:
+    - when: always
+      allow_failure: false
+
+test_python_datatodb:
+  stage: test_python
+  image: python:3.10
+  script:
+    - cd mysql/scripts
+    - pip install pytest pytest-cov pylint mysql-connector-python
+    - python -m unittest test_datatodb.py
+  rules:
+    - when: always
+      allow_failure: false
+
+deploy:
+  stage: deploy
+  image: debian:latest  # Use the same Debian-based image for consistency
+  script:
+    - apt-get update && apt-get install -y git  # Ensure Git is installed
+    - git checkout -b deploy  # Checkout to the 'deploy' branch
+  tags:
+    - docker  # Specify tags if needed
+  only:
+    - deploy  # Run this stage only on the 'deploy' branch
+
+
